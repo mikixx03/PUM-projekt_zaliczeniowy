@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Środowiska wirtualne (Virtual Environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Pliki konfiguracyjne i zmienne środowiskowe (TAJNE!)
+.env
+.flaskenv
+
+# Logi i bazy danych
+*.log
+*.sqlite3
+
+# Foldery narzędziowe i IDE
+.vscode/
+.idea/
+.DS_Store (dla macOS)
+
+# Dystrybucja i budowanie paczek
+dist/
+build/
+*.egg-info/
